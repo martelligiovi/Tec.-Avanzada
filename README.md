@@ -110,3 +110,6 @@ classDiagram
     Evento "0..*" -- "1..*" Artista : presenta a
     Usuario "1" -- "0..*" Entrada : Tiene una
     Entrada "0..*" -- "1" Evento : pertenece a
+
+```
+no hago un modelo de datos ya que voy a usar un ORM
