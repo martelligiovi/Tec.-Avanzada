@@ -62,6 +62,7 @@ classDiagram
         -Time horaFin
         -double precioBase 
         -int entradasDisponibles
+        -String tipo
         +Evento(id, nombre, fecha, horaInicio, horaFin, precioBase)
         +getId() String
         +getNombre() String
