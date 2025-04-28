@@ -117,6 +117,7 @@ classDiagram
 ## Modelo de Datos
 
 No se realiza un modelo de datos manual ya que se utilizará un **ORM (Entity Framework)** para la gestión de la base de datos.
+
 ----------
 ## Tecnologías Utilizadas
 
