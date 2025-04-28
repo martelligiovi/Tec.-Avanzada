@@ -116,4 +116,4 @@ classDiagram
 no hago un modelo de datos ya que voy a usar un ORM
 
 las tecnologias que voy a usar es:
- .NET 8, netcore blazor-server, sql server y Entity Framework
+ .NET 8, Aplicacion web blazor, sql server, Entity Framework y para el testeo xUnit 
