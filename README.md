@@ -139,4 +139,16 @@ las tecnologias que voy a usar es:
 
 - **Alta Prioridad**: Usuario, Entrada, Evento.
 - **Media Prioridad**: Espacio, Rol, Sala.
+----------
+## Justificación de la Elección de Tecnología y Consideraciones
+
+- Utilizaré **.NET 8** y una **Aplicación Web Blazor**, ya que en la empresa donde trabajo se utiliza este stack y deseo capacitarme en el mismo.
+
+- Emplearé **Entity Framework** como ORM, dado que facilita la creación de aplicaciones al:
+  - Simplificar la manipulación de datos.
+  - Proporcionar una capa de seguridad adicional contra **inyecciones SQL**, ya que maneja internamente la mayoría de los patrones de inyección conocidos.
+
+- Para las pruebas unitarias, usaré **xUnit**, ya que es la herramienta de testeo más popular en el ecosistema .NET.
+  - Cuenta con una **gran comunidad** de soporte.
+  - Es una herramienta **madura y bien testeada**, lo que garantiza confiabilidad y facilidad de aprendizaje.
 
