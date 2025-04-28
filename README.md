@@ -113,10 +113,19 @@ classDiagram
     Entrada "0..*" -- "1" Evento : pertenece a
 
 ```
-no hago un modelo de datos ya que voy a usar un ORM
+----------
+## Modelo de Datos
 
-las tecnologias que voy a usar es:
- .NET 8, Aplicacion web blazor, sql server, Entity Framework y para el testeo xUnit 
+No se realiza un modelo de datos manual ya que se utilizará un **ORM (Entity Framework)** para la gestión de la base de datos.
+----------
+## Tecnologías Utilizadas
+
+- **.NET 8**
+- **Aplicación Web Blazor**
+- **SQL Server**
+- **Entity Framework** (ORM)
+- **xUnit** (para testing unitario)
+
 
 ----------
 ## Alcance del Testeo Unitario
