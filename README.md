@@ -118,6 +118,7 @@ no hago un modelo de datos ya que voy a usar un ORM
 las tecnologias que voy a usar es:
  .NET 8, Aplicacion web blazor, sql server, Entity Framework y para el testeo xUnit 
 
+----------
 ## Alcance del Testeo Unitario
 
 ### Cobertura Funcional
